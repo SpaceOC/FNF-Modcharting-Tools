@@ -18,13 +18,14 @@ Still very WIP and not everything is supported yet!
 - [Yoshi Engine](https://github.com/YoshiCrafter29/YoshiCrafterEngine) (not tested)
 - [Forever Engine Legacy](https://github.com/Yoshubs/Forever-Engine-Legacy) (not tested)
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) (not tested)
-
+- [Codename Engine](https://github.com/CodenameCrew/CodenameEngine) (under development)
 
 ## Credits 
 - [Original FNF Team](https://github.com/ninjamuffin99/Funkin) - They made the game
 - [NotITG](https://www.noti.tg/) - Inspiration (made me love modcharts lol)
 - [OpenITG](https://github.com/openitg/openitg) - Math used for some modifiers
 - [TheZoroForce240](https://github.com/TheZoroForce240/FNF-Modcharting-Tools) - Creator of modcharting tools base
+- [EdwhakKB](https://github.com/EdwhakKB/FNF-Modcharting-Tools) - Creator of a forked version of the modcharting tool
 - [Vortex2Oblivion](https://github.com/Vortex2Oblivion) - Helper from modcharting tools
 - [Manu614](https://github.com/Manu614) - Helper from modcharting tools
 - [UncertainProd](https://github.com/UncertainProd) - Helper from modcharting tools
