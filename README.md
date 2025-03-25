@@ -18,7 +18,7 @@ Still very WIP and not everything is supported yet!
 - [Yoshi Engine](https://github.com/YoshiCrafter29/YoshiCrafterEngine) (not tested)
 - [Forever Engine Legacy](https://github.com/Yoshubs/Forever-Engine-Legacy) (not tested)
 - [FPS Plus](https://github.com/ThatRozebudDude/FPS-Plus-Public) (not tested)
-- [Codename Engine](https://github.com/CodenameCrew/CodenameEngine) (under development)
+- [Codename Engine](https://github.com/CodenameCrew/CodenameEngine) (not tested)
 
 ## Credits 
 - [Original FNF Team](https://github.com/ninjamuffin99/Funkin) - They made the game
